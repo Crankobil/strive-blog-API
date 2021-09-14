@@ -1,0 +1,19 @@
+[
+    {
+        "name": "M. J.",
+        "surname": "Demarco",
+        "email": "mjdemarco@gmail.com",
+        "date of birth": "04-02-1978",
+        "avatar": "https://ui-avatars.com/api/?name=MJ+Demarco)"
+    },
+
+    [
+        {
+            "name": "James",
+            "surname": "Clear",
+            "email": "jamesclear@gmail.com",
+            "date of birth": "03-09-1980",
+            "avatar": "https://ui-avatars.com/api/?name=James+Clear)"
+        }
+    ]
+]
