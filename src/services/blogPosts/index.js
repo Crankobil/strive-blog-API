@@ -13,7 +13,7 @@ const currentFilePath = fileURLToPath(import.meta.url)
 
 const currentDirPath = dirname(currentFilePath)
 
-const blogPostsJSONFilePath = join(currentDirPath, "blogPosts.json")
+export const blogPostsJSONFilePath = join(currentDirPath, "blogPosts.json")
 
 
 
